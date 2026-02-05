@@ -1,4 +1,4 @@
-# Day 02 – Create an AWS S3 Bucket using Terraform ☁️🪣
+# Day 03 – Create an AWS S3 Bucket using Terraform ☁️🪣
 
 ## 📌 Objective
 On Day 02 of my Terraform journey, I created an **AWS S3 bucket using Terraform**.  
