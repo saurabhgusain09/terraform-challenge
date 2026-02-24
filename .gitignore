@@ -15,3 +15,6 @@ crash.*.log
 # Variables 
 *.tfvars
 
+#pem files
+*.pem
+
